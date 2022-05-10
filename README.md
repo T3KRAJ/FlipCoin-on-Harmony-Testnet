@@ -1,6 +1,6 @@
 # Project Overview:
 “Coin Flip” is a betting game in the Solidity language using the Harmony testnet and Harmony VRF (Verifiable Random Function).
-A user can bet on the particular outcome (0 for heads and 1 for tails) of coin flip. The program excepts bet choice and bet amount from user. Winners will get double the price of bet amount.
+A user can bet on the particular outcome (0 for heads and 1 for tails) of coin flip. The program accepts bet choice and bet amount from user. Winners will get double the price of bet amount. Until the current bet is concluded, bettor cannot place another bet.
 Initially users will get 100 points in their balance. On successful placement of bet, bet amount will be deducted from their balance.
 
 Note: The project will run only if connected to harmony networks.
